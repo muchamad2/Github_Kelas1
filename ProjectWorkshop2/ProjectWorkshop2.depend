@@ -1,0 +1,867 @@
+# depslib dependency file v1.0
+1500515763 source:e:\prak. prog. 2\projectworkshop2\main.cpp
+	"GameInit.h"
+
+1500529287 source:e:\prak. prog. 2\projectworkshop2\gameinit.cpp
+	"GameInit.h"
+	<iostream>
+
+1500529443 e:\prak. prog. 2\projectworkshop2\gameinit.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<vector>
+	"SDL_image.h"
+	"Object.h"
+	"InputHandle.h"
+	"MenuState.h"
+	"PlayState.h"
+	"SelectDificult.h"
+	"TextureManager.h"
+	"GStateMachine.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935975 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800386 e:\prak. prog. 2\sdl\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\close_code.h
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1500521331 source:e:\prak. prog. 2\projectworkshop2\texturemanager.cpp
+	"TextureManager.h"
+
+1500470708 e:\prak. prog. 2\projectworkshop2\texturemanager.h
+	"SDL_image.h"
+	<string>
+	<map>
+	"SDL.h"
+
+1500508375 e:\prak. prog. 2\projectworkshop2\object.h
+	"SDL.h"
+	"LoadParams.h"
+	"Vector2D.h"
+
+1500432466 e:\prak. prog. 2\projectworkshop2\loadparams.h
+	<string>
+
+1500345784 source:e:\prak. prog. 2\projectworkshop2\gameobject.cpp
+	"GameObject.h"
+
+1500350855 e:\prak. prog. 2\projectworkshop2\gameobject.h
+	"Object.h"
+	"Vector2D.h"
+	"TextureManager.h"
+	"GameInit.h"
+
+1499249762 e:\prak. prog. 2\projectworkshop2\vector2d.h
+	<math.h>
+
+1499261938 source:e:\prak. prog. 2\projectworkshop2\vector2d.cpp
+	"Vector2D.h"
+
+1500296196 e:\prak. prog. 2\projectworkshop2\inputhandle.h
+	"SDL.h"
+	"vector"
+	"Vector2D.h"
+	"GameInit.h"
+
+1500296196 source:e:\prak. prog. 2\projectworkshop2\inputhandler.cpp
+	"InputHandle.h"
+
+1500526714 source:e:\prak. prog. 2\projectworkshop2\player.cpp
+	"Player.h"
+	"InputHandle.h"
+	<iostream>
+
+1500349673 e:\prak. prog. 2\projectworkshop2\pnenemy.h
+	"GameObject.h"
+	"InputHandle.h"
+
+1500524666 source:e:\prak. prog. 2\projectworkshop2\enemy.cpp
+	"Enemy.h"
+	"GameInit.h"
+	"stdlib.h"
+
+1500508704 e:\prak. prog. 2\projectworkshop2\enemy.h
+	"SDL.h"
+	"SDLGameObject.h"
+	<string>
+
+1500354930 e:\prak. prog. 2\projectworkshop2\include\player.h
+	"../GameObject.h"
+
+1500354440 source:e:\prak. prog. 2\projectworkshop2\src\player.cpp
+	"Player.h"
+	"../InputHandle.h"
+
+1500508553 e:\prak. prog. 2\projectworkshop2\player.h
+	"SDLGameObject.h"
+	<vector>
+
+1500517063 e:\prak. prog. 2\projectworkshop2\sdlgameobject.h
+	"Object.h"
+	"Vector2D.h"
+
+1500517981 source:e:\prak. prog. 2\projectworkshop2\sdlgameobject.cpp
+	"SDLGameObject.h"
+	"TextureManager.h"
+	"GameInit.h"
+
+1500523951 source:e:\prak. prog. 2\projectworkshop2\menustate.cpp
+	"MenuState.h"
+	"TextureManager.h"
+	"GameInit.h"
+	"PlayState.h"
+	"MenuButton.h"
+	"GStateMachine.h"
+	"ImageManager.h"
+
+1500365284 e:\prak. prog. 2\projectworkshop2\menustate.h
+	"GameState.h"
+	<vector>
+	"Object.h"
+
+1500360911 e:\prak. prog. 2\projectworkshop2\gamestate.h
+	<string>
+
+1500529375 source:e:\prak. prog. 2\projectworkshop2\playstate.cpp
+	"PlayState.h"
+	<iostream>
+	"BackgroundScroller.h"
+
+1500529443 e:\prak. prog. 2\projectworkshop2\playstate.h
+	"GameState.h"
+	<vector>
+	"Object.h"
+	"SDLGameObject.h"
+	"TextureManager.h"
+	"GameInit.h"
+	"Enemy.h"
+	"Player.h"
+
+1500362878 source:e:\prak. prog. 2\projectworkshop2\gstatemachine.cpp
+	"GStateMachine.h"
+
+1500362878 e:\prak. prog. 2\projectworkshop2\gstatemachine.h
+	"GameState.h"
+	<vector>
+
+1500523792 source:e:\prak. prog. 2\projectworkshop2\menubutton.cpp
+	"MenuButton.h"
+	"InputHandle.h"
+
+1500508507 e:\prak. prog. 2\projectworkshop2\menubutton.h
+	"SDLGameObject.h"
+
+1500485011 source:e:\prak. prog. 2\projectworkshop2\bullet.cpp
+	"Bullet.h"
+	"InputHandle.h"
+
+1500508449 e:\prak. prog. 2\projectworkshop2\bullet.h
+	"SDLGameObject.h"
+	"Vector2D.h"
+
+1500446146 source:e:\prak. prog. 2\projectworkshop2\bulletmanage.cpp
+	"BulletManage.h"
+	"iostream"
+	"GameInit.h"
+
+1500440916 e:\prak. prog. 2\projectworkshop2\bulletmanage.h
+	"Bullet.h"
+	<vector>
+
+1500488173 source:e:\prak. prog. 2\projectworkshop2\bulletmanager.cpp
+	"BulletManager.h"
+
+1500492097 e:\prak. prog. 2\projectworkshop2\bulletmanager.h
+	"Bullet.h"
+	"SDLGameObject.h"
+	<vector>
+	"Vector2D.h"
+
+1500497725 source:e:\prak. prog. 2\projectworkshop2\collision.cpp
+	"Collision.h"
+
+1500497725 e:\prak. prog. 2\projectworkshop2\collision.h
+
+1500518202 source:e:\prak. prog. 2\projectworkshop2\imagemanager.cpp
+	"ImageManager.h"
+	"GameInit.h"
+
+1500518322 e:\prak. prog. 2\projectworkshop2\imagemanager.h
+	"TextureManager.h"
+	"SDLGameObject.h"
+
+1500522834 source:e:\prak. prog. 2\projectworkshop2\backgroundscroller.cpp
+	"BackgroundScroller.h"
+	"TextureManager.h"
+	"GameInit.h"
+
+1500522589 e:\prak. prog. 2\projectworkshop2\backgroundscroller.h
+	"Object.h"
+
+1500527234 source:e:\prak. prog. 2\projectworkshop2\selectdificult.cpp
+	"SelectDificult.h"
+
+1500523972 e:\prak. prog. 2\projectworkshop2\selectdificult.h
+	"GameState.h"
+	"TextureManager.h"
+	"GameInit.h"
+	"MenuButton.h"
+
+1451801791 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362933 e:\prak. prog. 2\sdl\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+

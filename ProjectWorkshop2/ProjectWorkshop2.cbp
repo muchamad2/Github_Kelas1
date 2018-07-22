@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjectWorkshop2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProjectWorkshop2" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="E:/Prak. Prog. 2/ProjectWorkshop2" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-ansi" />
+					<Add option="-g" />
+					<Add directory="E:/Prak. Prog. 2/SDL/i686-w64-mingw32/include/SDL2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDL2main -lSDL2" />
+					<Add directory="E:/Prak. Prog. 2/SDL/i686-w64-mingw32/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProjectWorkshop2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-g" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Enemy.cpp" />
+		<Unit filename="Enemy.h" />
+		<Unit filename="GStateMachine.cpp" />
+		<Unit filename="GStateMachine.h" />
+		<Unit filename="GameInit.cpp" />
+		<Unit filename="GameInit.h" />
+		<Unit filename="GameObject.cpp" />
+		<Unit filename="GameState.h" />
+		<Unit filename="InputHandle.h" />
+		<Unit filename="InputHandler.cpp" />
+		<Unit filename="LoadParams.h" />
+		<Unit filename="MenuButton.cpp" />
+		<Unit filename="MenuButton.h" />
+		<Unit filename="MenuState.cpp" />
+		<Unit filename="MenuState.h" />
+		<Unit filename="Object.h" />
+		<Unit filename="PlayState.cpp" />
+		<Unit filename="PlayState.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="SDLGameObject.cpp" />
+		<Unit filename="SDLGameObject.h" />
+		<Unit filename="SelectDificult.cpp" />
+		<Unit filename="SelectDificult.h" />
+		<Unit filename="TextureManager.cpp" />
+		<Unit filename="TextureManager.h" />
+		<Unit filename="Vector2D.cpp" />
+		<Unit filename="Vector2D.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
